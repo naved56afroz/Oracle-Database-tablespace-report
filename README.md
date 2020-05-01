@@ -22,4 +22,10 @@ I will try to scale out this script to generate report for various items such as
 
 Sample scripts attached for tablespace utilization with threshold 75%.
 
+Usage :
+
+Download and deploy the files in /home/oracle/scripts in central server or jump host. In case of alternate location you can edit input files accordingly and run the Report.sh Identifier_Name from cenrtal server.
+
+You need to update the dblist with desired database sid , each in single line,and email list file with desired recipient list.
+
 
