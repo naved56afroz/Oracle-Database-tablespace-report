@@ -13,6 +13,7 @@ I have tried to keep it as generic as possible.
 	  |- Identifier_Name_db_List.txt
 
 I will try to scale out this script to generate report for various items such as archive generation, blocking and other performance metrics etc. which will be menu driven wherein, you can simply deploy the script and input options 1-n for desired reports.
+
 Sample scripts attached for tablespace utilization with threshold 75%.
 
 
