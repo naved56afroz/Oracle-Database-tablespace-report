@@ -6,6 +6,7 @@ Architecture diagram and script has been attached where main program is customiz
  
 I have tried to keep it as generic as possible.
 
+
 -Main_Report.sh
 
          |- Identifier_Name_Mail_List.txt
