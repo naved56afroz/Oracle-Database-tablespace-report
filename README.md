@@ -2,7 +2,7 @@
 Oracle Database Generic Reporting script
 
 This is generic reporting shell script can utilized to generate various reports for multiple database with minimal effort. 
-Architecture diagram and script has been attached where main program is customize to take inputs and run across multiple databases serially to generate alert notification in html format.
+Architecture diagram and script has been attached where main program is customize to take inputs and run across multiple databases serially to generate a consolidated alert notification in html format.
  
 I have tried to keep it as generic as possible.
 
