@@ -7,10 +7,15 @@ Architecture diagram and script has been attached where main program is customiz
 I have tried to keep it as generic as possible.
 
 -Main_Report.sh
-        |- Identifier_Name_Mail_List.txt
+
+         |- Identifier_Name_Mail_List.txt
+	 
 	  |- Set_Markup.sql
+	  
 	  |- Usage_report.sql
+	  
 	  |- Identifier_Name_db_List.txt
+	  
 
 I will try to scale out this script to generate report for various items such as archive generation, blocking and other performance metrics etc. which will be menu driven wherein, you can simply deploy the script and input options 1-n for desired reports.
 
